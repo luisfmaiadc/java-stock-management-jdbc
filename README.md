@@ -1,5 +1,5 @@
 <h1 align="center">Projeto Java - CRUD com JDBC</h1>
-<p align="center"">
+<p align="center">
  <a href="#started">Começando</a> • 
   <a href="#cloning">Clonando</a> •
  <a href="#creating">Banco de Dados</a> •
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" />
-</div>
+</p>
 
 <p style="text-align: justify;">Este é um projeto de um sistema CRUD (Create, Read, Update, Delete) desenvolvido em Java, utilizando JDBC para a integração com o banco de dados MySQL. O sistema é responsável pelo gerenciamento de um estoque de produtos, permitindo o cadastro, consulta, atualização e exclusão de registros. Cada produto possui os seguintes atributos: código, nome, preço e quantidade.</p>
 
