@@ -26,7 +26,7 @@ Antes de começar, verifique se você possui as seguintes ferramentas instaladas
 
 Como clonar o projeto:
 ```bash
-git clone git@github.com:luisfmaiadc/java-jdbcCrud.git
+git clone git@github.com:luisfmaiadc/java-stock-management-jdbc.git
 ```
 
 <h2 id="creating">💾 Criando Banco de Dados</h2>
@@ -66,7 +66,7 @@ O projeto foi desenvolvido apenas por mim, contudo foi um trabalho desafiador e 
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/168129517?v=4&size=64" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/168129517?v=4&size=64" width="100px;" alt="Luis Felipe Maia da Costa Profile Picture"/><br>
         <sub>
           <b>Luis Felipe Maia da Costa</b>
         </sub>
